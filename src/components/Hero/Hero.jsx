@@ -27,7 +27,7 @@ const Hero = () => {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 py-3">
               <div>
                 <label htmlFor="destination" className="opacity-70">
-                  Searh your Destination
+                  Search your Destination
                 </label>
                 <input
                   type="text"
